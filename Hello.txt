@@ -9,3 +9,4 @@ pi lambda
 shalom balom
 dalom shalom
 Dalom kalom
+Dalom palom
