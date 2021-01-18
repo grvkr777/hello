@@ -60,3 +60,4 @@ Bayes Theorem
 Markov Process
 Bt Ct
 Sebi Lebi
+Epoch Dipoch
