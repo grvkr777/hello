@@ -71,3 +71,4 @@ Limba Binga
 Dolan Dorum
 Yazjla Leujla
 Fuop Joup
+Numpy Pandas
